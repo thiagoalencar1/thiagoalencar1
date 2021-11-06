@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- After some time without programming, I'm back into webdevelopment.
+- Actually focus in javascript/reactjs and Ruby on Rails.
+- Interested in GoLang
+
+
 <!--
 **thiagogondim/thiagogondim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
