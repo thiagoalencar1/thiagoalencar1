@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-- After some time without programming, I'm back into webdevelopment.
-- Actually focus in javascript/reactjs and Ruby on Rails.
-- Interested in GoLang
-
+- 💻 After some time without programming, I'm back into webdevelopment.
+- 🌱 Currently focused in Javascript/Reactjs and Ruby on Rails.
+- 🌐 Specialist in geodata.
+- 🌐 Experience in Postgres/PosGIS.
+- ⛏️ Some experience with geodata processing with Python.
+- 🤔 Interested in GoLang.
+- 📫 Contact-me in Linkedin: https://linkedin.com/in/thiagoalencar1/
 
 <!--
 **thiagogondim/thiagogondim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
