@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 💻 Currently focused in Javascript/Reactjs and Ruby on Rails.
-- 🤔 Interested in Elixir and GoLang.
-- 🌐 Specialist in geodata.
+- :dart: Currently focused in Javascript/Reactjs and Ruby on Rails.
+- :monocle_face: Interested in Elixir.
+- 🤔 Seriously thinking about Rust and Go
+- 🌐 Geodata Specialist.
 - 🌐 Experience in Postgres/PosGIS.
 - ⛏️ Some experience with geodata processing with Python.
 - 📫 My Linkedin: https://linkedin.com/in/thiagoalencar1/
