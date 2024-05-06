@@ -1,5 +1,5 @@
 ### Hi there 👋
-- :dart: Currently focused in: Elixir/Phenix, Ruby/Ruby on Rails and Javascript/TypeScript/React.
+- :dart: Currently focused in: Elixir/Phoenix, Ruby/Ruby on Rails and Javascript/TypeScript/React.
 - :monocle_face: Interested in Rust and Go.
 - 🤔 Seriously thinking about Kotlin and Swift
 - 💬 Ask me about: geodata, geotechnologies.
