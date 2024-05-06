@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-- :dart: Currently focused in Elixir, Ruby on Rails and Javascript/Reactjs.
+- :dart: Currently focused in :elixir: Elixir, Ruby on Rails and Javascript/Reactjs.
 - :monocle_face: Interested in Rust and Go.
 - 🤔 Seriously thinking about Kotlin and Swift
 - 💬 Ask me about: geodata, geotechnologies.
 - 🌐 Experience in Postgres/PosGIS.
 - ⛏️ Some experience with geodata processing with Python.
 - 📫 My Linkedin: https://linkedin.com/in/thiagoalencar1/
+
+### GitHub Stats
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thiagoalencar1&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 
 <!--
 **thiagogondim/thiagogondim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
