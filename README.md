@@ -8,7 +8,7 @@
 - 📫 My Linkedin: https://linkedin.com/in/thiagoalencar1/
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=elixir,rails,ruby,react,graphql,rabbitmq,docker,js,ts,html,css,bootstrap,git,github,postgres,sqlite,bash)](https://linkedin.com/in/thiagoalencar1/)
+[![My Skills](https://skillicons.dev/icons?i=elixir,rails,ruby,react,graphql,rabbitmq,docker,python,js,ts,html,css,bootstrap,git,github,postgres,sqlite,bash)](https://linkedin.com/in/thiagoalencar1/)
 
 ### GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thiagoalencar1&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
