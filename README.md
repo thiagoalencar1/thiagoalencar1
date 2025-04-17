@@ -1,10 +1,22 @@
-## Hi there 👋
+<div align="center">
+  <h2>Hi there 👋</h2>
+  <p>
+  🎯 Currently focused in: <strong>Ruby on Rails</strong> and <strong>React</strong> | 🤓 <strong>Java</strong> is a ongoing skill. | 👴 Senior in: geodata analysis, geotechnologies. <br />
+  🤔 Seriously thinking about Go. | 🧰 Relevant experience with 🐍Python and 🌐Postgres/PosGIS.
+  </p>
+  <p>
+    📫 My Linkedin<br />
+    https://linkedin.com/in/thiagoalencar1/
+  </p>
+</div>
+<!--
 - 🎯 Currently focused in: **Ruby on Rails** and **React**.
 - 🤓 **Java** is a ongoing skill.
 - 👴 Senior in: geodata analysis, geotechnologies.
 - 🤔 Seriously thinking about Go.
 - 🧰 Relevant experience with 🐍Python and 🌐Postgres/PosGIS.
 - 📫 My Linkedin: https://linkedin.com/in/thiagoalencar1/
+-->
 
 <div align="center">
   <h2>Skills</h2>
