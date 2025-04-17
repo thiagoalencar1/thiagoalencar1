@@ -1,21 +1,26 @@
 ## Hi there 👋
-- :dart: Currently focused in: Elixir/Phoenix, Ruby/Ruby on Rails and Javascript/TypeScript/React.
-- :monocle_face: Interested in Rust and Go.
-- 🤔 Seriously thinking about Kotlin and Swift
-- 💬 Ask me about: geodata, geotechnologies.
-- 🌐 Experience in Postgres/PosGIS.
-- ⛏️ Some experience with geodata processing with Python.
+- 🎯 Currently focused in: **Ruby on Rails** and **React**.
+- 🤓 **Java** is a ongoing skill.
+- 👴 Senior in: geodata analysis, geotechnologies.
+- 🤔 Seriously thinking about Go.
+- 🧰 Relevant experience with 🐍Python and 🌐Postgres/PosGIS.
 - 📫 My Linkedin: https://linkedin.com/in/thiagoalencar1/
 
-## Skills
-### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,html,css,js,postgres,mysql,docker,git,github,gitlab)](https://linkedin.com/in/thiagoalencar1/)
-
-### Well Skilled
-[![My Skills](https://skillicons.dev/icons?i=aws,python,react,ts,tailwind,sqlite,linux,bash)](https://linkedin.com/in/thiagoalencar1/)
-
-### Relevant Experience
-[![My Skills](https://skillicons.dev/icons?i=elixir,redis,rabbitmq,graphql,bootstrap,)](https://linkedin.com/in/thiagoalencar1/)
+<div align="center">
+  <h2>Skills</h2>
+  <h3>Main Stack</h3>
+  <p>(languages, databases, cloud, devops and observability)</p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=ruby,rails,html,css,js,postgres,mysql" /> <br />
+    <img src="https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,linux,bash" />
+  </p>
+  
+  <h3>Well Skilled / Relevant Experience</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,react,ts,elixir,tailwind,sqlite" /> <br />
+    <img src="https://skillicons.dev/icons?i=java,redis,rabbitmq,graphql,bootstrap" />
+  </p>
+</div>
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thiagoalencar1&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
