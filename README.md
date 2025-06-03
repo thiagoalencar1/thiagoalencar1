@@ -1,8 +1,7 @@
 <div align="center">
   <h2>Hi there 👋</h2>
   <p>
-  🎯 Currently focused in: <strong>Ruby on Rails</strong> and <strong>React</strong> | 🤓 <strong>Java</strong> is a ongoing skill. | 👴 Senior in: geodata analysis, geotechnologies. <br />
-  🤔 Seriously thinking about Go. | 🧰 Relevant experience with 🐍Python and 🌐Postgres/PosGIS.
+  🎯 Currently focused in: <strong>Ruby on Rails</strong> and <strong>React</strong> | 🤓 <strong>Go</strong> is a ongoing skill. | 👴 Senior in: geodata analysis, geotechnologies. <br />| 🧰 Relevant experience with 🐍Python and 🌐Postgres/PosGIS.
   </p>
   <p>
     📫 My Linkedin<br />
